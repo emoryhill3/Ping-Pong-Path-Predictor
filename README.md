@@ -8,6 +8,6 @@ This project simulates the 3D motion of a ping pong ball, incorporating both aer
 *Note: Initial condition of spin is set within SphereMotion1.m*
 
 **Usage:**
-1. Open SPhereRunner.mlx in MATLAB.
+1. Open SphereRunner.mlx in MATLAB.
 2. Set initial conditions for position, velocity, and spin.
 3. Run the live script to see the ball's 3D trajectory.
